@@ -1,0 +1,17 @@
+.item {
+  background-color: blueviolet;
+  display: flex;
+  /* justify-content: center; */
+  align-items: center;
+  width: 90px;
+  height: 44px;
+  /* padding: 0.6rem; */
+  box-shadow: 0 0px 3px rgba(26, 26, 26, 0.705);
+}
+.swicher {
+  box-shadow: -1px 0 1px rgb(26, 26, 26);
+  width: 36px;
+  height: 36px;
+  background-color: rgb(255, 167, 5);
+  border-radius: 100%;
+}
